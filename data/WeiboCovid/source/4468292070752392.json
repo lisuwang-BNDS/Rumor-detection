@@ -1,0 +1,50 @@
+{
+    "source": {
+        "content": "广州南岸腾龙国际，女的在家里喷洒酒精消毒，男的在厨房做饭，家里就爆炸了，疫情防控期间，大家对酒精一定要安全使用网页链接",
+        "tweet id": "4468292070752392",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "广州南岸？南岸区怕是重庆的"
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "硚口消防大队发布通报称，起火部位为武汉硚口团结佳兴园小区一屋内阳台，起火时室内无人居住，外来火种（烟头）引燃阳台杂物引发火灾。该住户未储存酒精等易燃易爆物品，现场爆炸声为燃烧引起家用火锅炉的小瓦斯罐爆炸，并非网传酒精消毒引发。"
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "就是啊，广州南岸只是一条路……"
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4,
+                5
+            ],
+            "content": "辟谣了赶紧删了吧"
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "回复<'Nannnnnnncy'>1"
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "content": "能不能指路告诉我哪里辟谣了？我是觉得是假的，但是我同事他们传得很开心居然不信我。"
+        }
+    ]
+}

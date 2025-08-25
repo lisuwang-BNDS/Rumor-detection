@@ -1,0 +1,36 @@
+{
+    "source": {
+        "content": "天！全日本一共有多少辆救护车啊[允悲]一人一辆，真的是太到位了！乳山市",
+        "tweet id": "4466090010912264",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "假消息，只派出了21辆，还是接待自愿接收隔离的140人，其他人都各回各家了。"
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "日本新闻报道了还能是假的？"
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "回复<'奶猫咪'>至少没有任何一手的日文资料可以证明是一人一辆的，并且官媒也辟谣了"
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "造谣上央视新闻，有排面"
+        }
+    ]
+}

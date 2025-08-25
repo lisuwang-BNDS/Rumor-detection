@@ -1,0 +1,100 @@
+{
+    "source": {
+        "content": "棒啊！90％的新冠病毒遇茶水1分钟被杀灭99.9％的新冠病毒十分钟被灭[得意]这个发现奥利给[强]所以，每天都要腾出时间来喝茶呀！宣威市网页链接",
+        "tweet id": "4590381138444962",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "说茶水可以灭活新冠病毒，效果最好的还是红茶。我一看就觉得不对劲，先查这个大夫，正儿八经主任医师、博导，再一查发现这是乔医生针对日本一项关于茶水能杀新冠病毒的报道的反驳，结果被掐头去尾，成了他们茶商的广告了……文案还写得冠冕堂皇，这不是典型的传谣么？"
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "已投诉！"
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "从哪里投诉，一看就是假的"
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4,
+                5,
+                6,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "content": "红茶可以消灭新冠病毒~网页链接"
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "卖红茶的老板们可以申请上市了，，，，"
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "content": "蒸的煮的[傻眼]"
+        },
+        {
+            "comment id": 6,
+            "parent": 3,
+            "children": [
+                7
+            ],
+            "content": "//<'1978不倒的主人翁'>蒸的煮的[傻眼]"
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "早上好[可爱][可爱][可爱][可爱]，克服万重困难蹦来造访好友(＾∀＾）"
+        },
+        {
+            "comment id": 8,
+            "parent": 3,
+            "children": [],
+            "content": "早上好！[握手][作揖][微风][太开心]"
+        },
+        {
+            "comment id": 9,
+            "parent": 3,
+            "children": [],
+            "content": "<'华华敏敏2014'>@华华敏敏2014<'AnnieHojy_茅台1500不算高'>@AnnieHojy_茅台1500不算高"
+        },
+        {
+            "comment id": 10,
+            "parent": 3,
+            "children": [],
+            "content": "这医生怎么和川普一个水平？//<'传说中的一撰梅'>转发微博"
+        },
+        {
+            "comment id": 11,
+            "parent": 3,
+            "children": [],
+            "content": "真的？"
+        },
+        {
+            "comment id": 12,
+            "parent": 3,
+            "children": [],
+            "content": "//<'传说中的一撰梅'>转发微博"
+        }
+    ]
+}

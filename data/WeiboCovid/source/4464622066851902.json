@@ -1,0 +1,67 @@
+{
+    "source": {
+        "content": "紧急通知：车牌号为浙BL0535，这个车刚从浙江出来，正在前往北京方向，车上所有人已经确诊了病情偷跑出来，大家看到了及时报警，为了大家的健康，都转发，人人看到都要转发。<'北京12345'>@北京12345<'平安北京'>@平安北京",
+        "tweet id": "4464622066851902",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "假的，这车在全国朋友圈都传开了[允悲]全国跑怎么可能[允悲][允悲][允悲]"
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "别造谣"
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "听您造谣"
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "假的已辟谣"
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "谣言，就算有也是警察先知道"
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "在网络上造谣、传谣，散布虚假信息属于治安管理处罚法调整范围。〈中华人民共和国治安管理处罚法〉第二十五条有下列行为之一的，处5日以上10日以下拘留，可以并处500元以下罚款；情节较轻的，处5日以下拘留或者500元以下罚款"
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "那你去举报我SB"
+        },
+        {
+            "comment id": 7,
+            "parent": 1,
+            "children": [],
+            "content": "去你妈的"
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "全国都在说这车去他家那了，连我们一个小县城都有传，别发了，谣言。"
+        }
+    ]
+}

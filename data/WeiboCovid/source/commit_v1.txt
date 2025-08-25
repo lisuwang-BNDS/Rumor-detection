@@ -1,0 +1,9 @@
+Commit Title: Initial release: Rumor detection RAG system with training and validation data
+Commit Description:
+- Added v1 implementation (1_web_search_rag_gov_glm.py) using GLM-4-Plus with government domain filtering
+- Added evaluation script (result_rag.py) for model performance metrics
+- Added training dataset (data/weibo_source_comments.jsonl) for LLaMA model
+- Added validation dataset (data/WeiboCovid) for model testing and evaluation
+- Establishes foundation for statistical and data science approaches to rumor detection
+- Implements retrieval-augmented generation with official government sources
+- Separates training data from validation data for proper model evaluation

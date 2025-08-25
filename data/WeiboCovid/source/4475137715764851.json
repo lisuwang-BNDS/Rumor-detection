@@ -1,0 +1,47 @@
+{
+    "source": {
+        "content": "#复工复产需谨慎#全国已有12起复工后聚集性疫情发生，15人确诊，18人传染，500多人隔离。近期全国陆续复工，据不完全统计，复工后发生的聚集性疫情12起共15人确诊，18人传染，514人以上被隔离。包含内蒙古赤峰一发电厂、山西一发电厂。详情如下：",
+        "tweet id": "4475137715764851",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "么么哒。博主"
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "人生挑战无处不在"
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "下午好[笑哈哈]"
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "<'亳新闻'>@亳新闻<'亳州发布'>@亳州发布"
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "重庆一个钢铁还有一个是什么"
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "渝钛业"
+        }
+    ]
+}

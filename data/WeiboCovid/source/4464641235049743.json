@@ -1,0 +1,133 @@
+{
+    "source": {
+        "content": "#土耳其发生6.8级地震##土耳其旅行##河南新增23例确诊病例#信阳封城了，土耳其发生地震了，疫情又严重了，机票可以退全款了，下个月就该回国了，我该去哪[喵喵][喵喵]马尔代夫",
+        "tweet id": "4464641235049743",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "伊斯坦布尔跟卡帕受影响了吗"
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "别回来了真的，现在疫情很严重，在外照顾好自己，"
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3,
+                16
+            ],
+            "content": "别回来真的"
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "好的吧，那我去哪呢[允悲]"
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "别回来了，疫情过后回也没关系的！"
+        },
+        {
+            "comment id": 5,
+            "parent": 1,
+            "children": [],
+            "content": "好的，谢谢"
+        },
+        {
+            "comment id": 6,
+            "parent": 4,
+            "children": [],
+            "content": "好的，本来想着合同到期了终于可以回家吃猪肉了[允悲]"
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "等一个月以后再说"
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "好的谢谢"
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10,
+                11
+            ],
+            "content": "信阳没有封城"
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "回复<'没没没名字呀'>我的妈呀，好的吧，那你们也要好好保护自己[允悲]"
+        },
+        {
+            "comment id": 11,
+            "parent": 9,
+            "children": [],
+            "content": "哦哦，好的，谢谢你"
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [
+                13
+            ],
+            "content": "没封"
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "content": "谁给我的图片，我以为真的封了"
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [
+                15
+            ],
+            "content": "跟我回北京吧，我准备飞去明港下的，说是也不能进市里了[doge]我爸已经想到偷渡了"
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [],
+            "content": "哈哈哈哈哈哈哈哈哈你直接去北京吧"
+        },
+        {
+            "comment id": 16,
+            "parent": 2,
+            "children": [],
+            "content": "回复<'双子座浪人琵琶'>OKOK，我再看看吧"
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [],
+            "content": "可以退了？？？可以可以但是回来也只能家里蹲"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "source": {
+        "content": "#丹麦称养殖貂体内发现新冠病毒#连这么可爱的小貂都会染病了，今年小动物是很危险的一年啊！不知道猫猫狗狗怎么样，大家今年还是要小心啊[睡][睡][睡][傻眼][傻眼][傻眼]#萌宠的日常#繁花大官人的微博视频",
+        "tweet id": "4517120912626687",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "《燃烧》比你说的《三叉戟》好看"
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "回复<'繁花大官人'>有时间看看《燃烧》"
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "现在都忙，没时间看电视[睡][睡]"
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "j"
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "k"
+        }
+    ]
+}

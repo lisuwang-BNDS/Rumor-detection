@@ -1,0 +1,242 @@
+{
+    "source": {
+        "content": "#印度30多名新冠疑似患者隔离中失踪#失踪？有点可怕，万一是确诊患者，这可是移动的感染源。印度人口众多，封城下，很多人没了工作，尤其印度贫民窟，更是难上加难，面对隔离，当地群众坦言，吃饭都成问题，还要什么隔离。印度的医疗卫生条件如何？不得而知，反正恒河水经常喝，牛尿也喝，吃饭用手，拉屎也是手......疫情下，每个人都是无辜的，每个数字背后，都是一个活生生的生命。印度，挺住！",
+        "tweet id": "4497170465834437",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                28
+            ],
+            "content": "疫情下，每个人都是无辜的。"
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "清新我是中国人不怕"
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "[doge]"
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                12
+            ],
+            "content": "印度人口众多，封城下，很多人没了工作，尤其印度贫民窟，更是难上加难。"
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "content": "他们简直了，这都什么情况了"
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "[悲伤]"
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "太可怕了。快快好起来"
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "[作揖]"
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9,
+                10
+            ],
+            "content": "失踪？有点可怕！"
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "毫不夸张的说更是一枚定时炸弹。"
+        },
+        {
+            "comment id": 10,
+            "parent": 8,
+            "children": [],
+            "content": "万一是确诊患者，这可是移动的感染源"
+        },
+        {
+            "comment id": 11,
+            "parent": 4,
+            "children": [],
+            "content": "[摊手][摊手][摊手]"
+        },
+        {
+            "comment id": 12,
+            "parent": 3,
+            "children": [],
+            "content": "面对隔离，当地群众坦言，活着都成问题，还要什么隔离。"
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [
+                14
+            ],
+            "content": "印度人多，没关系"
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [],
+            "content": "人多更可怕。。。"
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [
+                33
+            ],
+            "content": "印度的情况也有点太可怕了！"
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [
+                24
+            ],
+            "content": "印度，加油加油"
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [],
+            "content": "吐了"
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [],
+            "content": "据《印度时报》4月23日报道，印度德里30多名新冠肺炎疑似患者从两处隔离设施中离奇失踪，当地警方正在对他们的下落展开搜索。除了当地警察，德里周边地区的警方也已接到警报展开行动。根据德里警方的消息，在失踪的新冠疑似患者中有多人是尼泊尔籍。"
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [
+                32
+            ],
+            "content": "加油，挺住"
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [
+                21
+            ],
+            "content": "希望疫情早日结束吧"
+        },
+        {
+            "comment id": 21,
+            "parent": 20,
+            "children": [],
+            "content": "[心]"
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "content": "印度，挺住！"
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [
+                25
+            ],
+            "content": "好恐怖啊"
+        },
+        {
+            "comment id": 24,
+            "parent": 16,
+            "children": [],
+            "content": "加油"
+        },
+        {
+            "comment id": 25,
+            "parent": 23,
+            "children": [],
+            "content": "[摊手][摊手][摊手]"
+        },
+        {
+            "comment id": 26,
+            "parent": -1,
+            "children": [
+                27
+            ],
+            "content": "没关系"
+        },
+        {
+            "comment id": 27,
+            "parent": 26,
+            "children": [],
+            "content": "[二哈][二哈][二哈]"
+        },
+        {
+            "comment id": 28,
+            "parent": 0,
+            "children": [],
+            "content": "每个数字背后，都是一个活生生的生命。"
+        },
+        {
+            "comment id": 29,
+            "parent": -1,
+            "children": [],
+            "content": "可怕"
+        },
+        {
+            "comment id": 30,
+            "parent": -1,
+            "children": [
+                31
+            ],
+            "content": "印度的医疗卫生条件如何？"
+        },
+        {
+            "comment id": 31,
+            "parent": 30,
+            "children": [],
+            "content": "不得而知，反正恒河水经常喝，牛尿也喝，吃饭用手，拉屎也是手......"
+        },
+        {
+            "comment id": 32,
+            "parent": 19,
+            "children": [],
+            "content": "[心]"
+        },
+        {
+            "comment id": 33,
+            "parent": 15,
+            "children": [],
+            "content": "怕"
+        }
+    ]
+}

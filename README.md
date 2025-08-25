@@ -1,0 +1,139 @@
+# Statistical and Data Science Approaches to Rumor Detection: Web Search and Retrieval-Augmented Generation (RAG)
+
+## Updates
+
+*Initial release: Added v1 implementation with government domain filtering and evaluation results*
+
+This repository contains research on rumor detection using web search and retrieval-augmented generation (RAG) techniques. The goal is to enhance rumor detection capabilities by incorporating external web search results into the classification process.
+
+## Research Overview
+
+Our approach combines traditional rumor detection methods with modern RAG techniques to improve classification accuracy. By leveraging web search capabilities, we can gather relevant information to better evaluate the veracity of claims.
+
+## Methodology
+
+### Web Search RAG with Government Domain Filtering (1_web_search_rag_gov_glm.py)
+
+This implementation uses:
+- ZhipuAI's GLM-4-Plus model for classification
+- Web search functionality restricted to government domains (.gov.cn)
+- Retrieval of relevant information to augment the classification prompt
+
+**Evaluation Results:**
+- **Accuracy**: 0.7689
+- **Precision**: 0.7553
+- **Recall**: 0.9470
+- **Negative F1**: 0.5815
+- **F1**: 0.8403
+
+**Baseline Comparison (Fine-Tuning LLaMA3 8b):**
+- **Accuracy**: 0.7703
+- **Negative F1**: 0.5405
+- **F1**: 0.8468
+
+## Research Path
+
+### Phase 1: Government Domain Filtering (Completed)
+- **File**: `1_web_search_rag_gov_glm.py`
+- **Approach**: Restrict web search to government domains only
+- **Status**: Completed with evaluation metrics above
+
+### Phase 2: Alternative Model Integration (Planned)
+
+### Phase 3: Expanded Domain Search (Planned)
+
+## Future Research Directions
+
+1. **Feature Engineering with LLMs**: Utilize large language models for advanced feature extraction from text content, including:
+   - Semantic embeddings for capturing nuanced meaning
+   - Sentiment analysis features with contextual understanding
+   - Linguistic complexity metrics
+   - Topic modeling with hierarchical approaches
+   - Temporal dynamics features for rumor evolution tracking
+
+2. **Statistical Feature Analysis**: Apply rigorous statistical methods to identify most predictive features:
+   - Feature importance analysis using permutation importance and SHAP values
+   - Correlation analysis between features and rumor veracity
+   - Principal Component Analysis (PCA) for dimensionality reduction
+   - Cluster analysis to identify rumor pattern groups
+
+3. **Hybrid Ensemble Modeling**: Combine traditional machine learning models with LLM capabilities:
+   - Stacking ensemble with meta-learner optimizing prediction weights
+   - Bayesian model averaging for uncertainty quantification
+   - Gradient boosting with LLM-extracted features
+   - Deep learning architectures combining CNN/RNN with transformer features
+
+4. **Model Comparison**: Evaluate performance across different language models
+5. **Domain Analysis**: Compare results from different domain restrictions
+6. **Prompt Engineering**: Optimize classification prompts for better performance
+7. **Real-time Implementation**: Develop a system for real-time rumor detection
+8. **Cross-domain Validation**: Test the approach on different rumor datasets
+
+## Installation and Usage
+
+### Prerequisites
+- Python 3.x
+- Required packages:
+  - `zhipuai`
+  - `requests`
+  - `json`
+  - `tqdm`
+
+### Running the Experiments
+1. Install required packages:
+   ```bash
+   pip install zhipuai requests tqdm
+   ```
+
+2. Set up API keys in the respective Python files
+
+3. Run the desired implementation:
+   ```bash
+   python 1_web_search_rag_gov_glm.py
+   ```
+
+## Dataset
+
+This project utilizes two distinct datasets for training and validation:
+
+### Training Dataset
+- **File**: `data/weibo_source_comments.jsonl`
+- **Purpose**: Training data for language models (including LLaMA)
+- **Content**: Weibo posts with user comments and ground truth labels
+- **Format**: JSONL format with one entry per line
+
+### Validation Dataset
+- **Directory**: `data/WeiboCovid/source`
+- **Purpose**: Validation and testing of trained models
+- **Content**: Weibo posts for model evaluation
+- **Format**: Organized directory structure with source content and verification labels
+
+Both datasets contain:
+- Source content from social media posts
+- User comments 
+- Ground truth labels for rumor verification
+
+## Evaluation Metrics
+
+We use standard classification metrics to evaluate our approach:
+- **Accuracy**: Overall correctness of the classifier
+- **Precision**: Proportion of true positives among all positive predictions
+- **Recall**: Proportion of true positives correctly identified
+- **F1**: Harmonic mean of precision and recall
+- **Negative F1**: F1 score for non-rumor class
+
+## Results Summary
+
+| Implementation | Accuracy | Precision | Recall | Negative F1 | F1 |
+|----------------|----------|-----------|--------|-------------|-----|
+| 1_web_search_rag_gov_glm.py | 0.7689 | 0.7553 | 0.9470 | 0.5815 | 0.8403 |
+
+## License
+
+This project is for research purposes only.
+
+## Acknowledgments
+
+- ZhipuAI for providing the GLM-4-Plus model
+- OpenRouter for the DeepSeek model access
+- WeiboCovid dataset creators

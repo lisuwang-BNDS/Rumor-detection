@@ -1,0 +1,23 @@
+{
+    "source": {
+        "content": "柳州奖励援鄂抗疫队员每人一辆汽车，赠奖车打有英雄字样，今后开出来停车不收费。#正能量#猛哥来了518的微博视频",
+        "tweet id": "4492064438302953",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "奖励汽车，我一点儿都不眼红，因为那是人家拿命换来的，他们是英雄！"
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "说得好[good][good][good]"
+        }
+    ]
+}

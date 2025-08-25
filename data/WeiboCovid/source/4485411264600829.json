@@ -1,0 +1,42 @@
+{
+    "source": {
+        "content": "俄罗斯总统普京在俄罗斯全国投放800只老虎和狮子，以敦促国民呆在家里不要外出。[嘻嘻][嘻嘻][嘻嘻]",
+        "tweet id": "4485411264600829",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "举报造谣"
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "他们说这个照片是五年以前的"
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3,
+                4
+            ],
+            "content": "这真的假的？"
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "假的很久之前的图了"
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [],
+            "content": "回复<'梵高的耳朵乐园'>假的，狮子在俄罗斯会被冻死"
+        }
+    ]
+}

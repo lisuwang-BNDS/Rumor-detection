@@ -1,0 +1,57 @@
+{
+    "source": {
+        "content": "一场疫情，外国人富了。广州",
+        "tweet id": "4494815821735289",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "假新闻吧？没搜到这个文件…"
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "什么情况这是？"
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "微信朋友圈看到的"
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "这谣言编的，一地人民币跟方方的一地手机一样"
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "甚至都不是人民币<'微博辟谣'>@微博辟谣"
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "卧槽！不会是真的吧？"
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "用脚趾头想都知道是假的啊举报了"
+        }
+    ]
+}

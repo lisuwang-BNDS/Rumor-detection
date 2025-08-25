@@ -1,0 +1,69 @@
+{
+    "source": {
+        "content": "白宫官网消息：吉利德公司的瑞德西韦明日（2月3日）开始在中国临床试验。经特朗普总统特批，同意将该药物专利豁免，向中国紧急公开药物分子结构。至2020年4月27日，允许中国仿制此药用于治疗冠状病毒患者。",
+        "tweet id": "4467645782908291",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                6,
+                7
+            ],
+            "content": "自己的流感能治好吗，否则就是来收智商税"
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "哪里来的消息？不可信"
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "已经确定是谣言"
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4,
+                8
+            ],
+            "content": "请问瑞德西韦专利豁免的官方报道来源在哪？"
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "回复<'quote77大校'>辟谣了，确实是假消息，开始举报"
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "要钱还是要命，特没谱拎得清[嘻嘻]"
+        },
+        {
+            "comment id": 6,
+            "parent": 0,
+            "children": [],
+            "content": "回复<'嘻戏喜希溪溪'>别闭眼瞎舔好不好，中国人口平均寿命甩美国一条街，美国拥有全世界最高肥胖率、最僵化医疗体系和最高昂医疗费用好不好"
+        },
+        {
+            "comment id": 7,
+            "parent": 0,
+            "children": [],
+            "content": "流感不难治，难治的是引起其他的呼吸病。我们需要承认，美国的医学水平是其他所有国家都无法媲美的。"
+        },
+        {
+            "comment id": 8,
+            "parent": 3,
+            "children": [],
+            "content": "同想问，要是造谣一定举报"
+        }
+    ]
+}

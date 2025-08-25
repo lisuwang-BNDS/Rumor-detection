@@ -1,0 +1,21 @@
+{
+    "source": {
+        "content": "我KAO，只有俄罗斯想得出把老虎狮子放出来巡逻？",
+        "tweet id": "4485302334478263",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "真的假的"
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "编造的笑话而已"
+        }
+    ]
+}

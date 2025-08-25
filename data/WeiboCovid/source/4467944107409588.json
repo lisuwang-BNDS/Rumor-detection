@@ -1,0 +1,103 @@
+{
+    "source": {
+        "content": "杭州市视频会议刚结束，今晚开始不能回杭州，已上高速的立马下高速返回，杭州和余杭高速口都已封闭，已返杭州高速口的都劝返返回，不准下高速，请朋友互相转告！！！松阳杭州丽水·松阳县",
+        "tweet id": "4467944107409588",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "假的吧"
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "图片评论"
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "图片评论"
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "已举报"
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "造谣的"
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "content": "我也！"
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7,
+                8
+            ],
+            "content": "湖北温州的不让进杭州了？是不是高速口就劝返？"
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "是的，杭州以外户口的进不了杭州"
+        },
+        {
+            "comment id": 8,
+            "parent": 6,
+            "children": [],
+            "content": "回复<'guigui0730'>好的，你可以去投诉"
+        },
+        {
+            "comment id": 9,
+            "parent": 0,
+            "children": [],
+            "content": "真的"
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "真的假的"
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [
+                12,
+                13
+            ],
+            "content": "造谣要负法律责任哦博主确定是事实吗？"
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "content": "你可以开到杭州试试"
+        },
+        {
+            "comment id": 13,
+            "parent": 11,
+            "children": [],
+            "content": "回复<'guigui0730'>嗯，再晚一步就关了"
+        }
+    ]
+}

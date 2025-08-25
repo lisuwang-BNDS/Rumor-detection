@@ -1,0 +1,78 @@
+{
+    "source": {
+        "content": "#美国反居家令团体创始人确诊新冠#打脸，疼不[并不简单][思考]，新冠专治各种不服。这位抗议团体创始人再次用亲身经历证明，不戴口罩，盲目聚集是极其危险的行为，无异于飞蛾扑火。纵观美国官方民间对待新冠的态度与决心，要想完全战胜病毒，恐怕还有很长的一段路要走。[哼][酷]",
+        "tweet id": "4520809899063216",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "太好了，是我喜欢的"
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "期待多跟我们分享分享"
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3,
+                5
+            ],
+            "content": "下午好"
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "[抱抱][抱抱][抱抱][抱抱][抱抱]"
+        },
+        {
+            "comment id": 4,
+            "parent": 1,
+            "children": [],
+            "content": "[爱你][爱你][爱你][爱你]"
+        },
+        {
+            "comment id": 5,
+            "parent": 2,
+            "children": [],
+            "content": "[摊手][摊手][摊手][摊手][摊手]"
+        },
+        {
+            "comment id": 6,
+            "parent": 0,
+            "children": [],
+            "content": "[思考][思考][作揖]"
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "回复<'98年大脑斧'>[哈哈]"
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "刷刷存在感，要回访哦"
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "[摊手][摊手][摊手][摊手]"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "source": {
+        "content": "一分钟前收到：特朗普在讲台上出状况了，被架下去了。架他的人也传染上了！特朗普刚刚晕了！快讯！美国总统唐纳德特朗普先生确诊为冠状病毒正在医院接受治疗，总统职务由副总统彭斯接替。美国全国上下一片恐慌。许多持有中国签证的美国人正在争抢前往中国的航班，飞机票是平时的十倍。珠海网页链接",
+        "tweet id": "4483121754020133",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "插个flag看看消息真假"
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "[微笑]"
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "真的假的"
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "真的惊了，真的假的"
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "此内容为不实消息，已处理。"
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "假消息！2016年的。"
+        },
+        {
+            "comment id": 6,
+            "parent": 3,
+            "children": [],
+            "content": "真假自辩！"
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "这种级别的新闻不是官方发的都有待斟酌"
+        }
+    ]
+}

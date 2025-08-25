@@ -1,0 +1,54 @@
+{
+    "source": {
+        "content": "哈尔滨好像封城了哈尔滨杨锐_丰乔的微博视频",
+        "tweet id": "4493954462129518",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                5
+            ],
+            "content": "这视频一看就不是现在的！啥天还带棉帽子啊？[允悲]"
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "现在白天零上18、9需要带棉帽子？"
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "你好，请问是真的吗？"
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "让出吗？"
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "据说是谣言"
+        },
+        {
+            "comment id": 5,
+            "parent": 0,
+            "children": [],
+            "content": "...你这啥逻辑？风多大你不知道？他们一站站一天多冷啊"
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "冬天的视频呀"
+        }
+    ]
+}

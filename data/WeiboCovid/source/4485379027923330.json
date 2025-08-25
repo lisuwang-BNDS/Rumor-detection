@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "俄罗斯决定在全国放800只老虎狮子，以驱使人们带在家里？那农村木头房子咋办？",
+        "tweet id": "4485379027923330",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "很好，很有风格，我喜欢（但幸好我不是俄罗斯人）"
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "这消息也太假了"
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "那其它家禽动物就要倒霉了，最后不是人吃老虎就是老虎吃人"
+        }
+    ]
+}

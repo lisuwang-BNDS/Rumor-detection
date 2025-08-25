@@ -1,0 +1,35 @@
+{
+    "source": {
+        "content": "#北京市教委辟谣网传开学时间#定了！广东省9月前不开学",
+        "tweet id": "4491552103179732",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "给你处理了"
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "被一傻子举报了"
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "这算不算是我逼出来的哈哈哈哈哈哈哈哈哈哈"
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈收到！"
+        }
+    ]
+}

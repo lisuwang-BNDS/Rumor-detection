@@ -1,0 +1,72 @@
+{
+    "source": {
+        "content": "#辽宁新增1例新冠肺炎#新增丹东1例，据说是国外回来的[汗]",
+        "tweet id": "4477642529374198",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "不是哦"
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                9
+            ],
+            "content": "这咋好几个版本[晕]，坐等官方宣布吧"
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "丹东发布官宣了"
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "不是的"
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "据说不是"
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "不是黑龙江回来的么[允悲]"
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "不是"
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "灌水鸭厂的"
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "宽甸本地的，不是外来的"
+        },
+        {
+            "comment id": 9,
+            "parent": 1,
+            "children": [],
+            "content": "回复<'你的小可爱在这呢'>嗯呐"
+        }
+    ]
+}

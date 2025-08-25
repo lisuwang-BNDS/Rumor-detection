@@ -1,0 +1,104 @@
+{
+    "source": {
+        "content": "#北京身边事##转发视频#蒙古国支援中国的30000只羊，终于走过来了，一个先遣团今天抵达北京延庆。太壮观了[good][good][good][摊手][摊手][摊手]北京糖心果CONY的微博视频",
+        "tweet id": "4509516492139193",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "拜访支持！"
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                13
+            ],
+            "content": "支援我们羊？"
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "对呀"
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "八卦六爻,理通天地；两仪四象,机测鬼神"
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "可爱的羊们太辛苦了，到地方得好好休息一下，然后就地解散自由活动吧。"
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "为优秀的博主点赞，[中国赞][中国赞][给力][给力]欢迎回访!"
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "[赞][赞][赞][赞][赞][赞][赞]"
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "走心微博[给力]"
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "博主很优秀，我支持"
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "这么多？？？"
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "content": "[可爱]"
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "[作揖]"
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "支持你"
+        },
+        {
+            "comment id": 13,
+            "parent": 1,
+            "children": [],
+            "content": "回复<'地上行走的鱼'>不知道[笑cry]"
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "content": "[嘻嘻][嘻嘻][中国赞]"
+        }
+    ]
+}

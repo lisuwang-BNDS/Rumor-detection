@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "哈尔滨二次封城开始了！新乡hscr槐树传人的微博视频",
+        "tweet id": "4495542212136388",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "这不叫封城请别乱说谢谢"
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "回复<'KuMa_A_KuMa_矮熊'><'wxh789_39919'>[good]"
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3,
+                4
+            ],
+            "content": "别在胡说了，你转发等同于造谣。现在只是小区封了。没有封城"
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "回复<'hscr槐树传人'>请看清楚你的标题，难不成为了火蹭热度？"
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [],
+            "content": "你说话毫无一点逻辑，既然封小区不等于封城，那么转发就能等于造谣？你别再混淆概念了！"
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "转发微信朋友的视频，绝对不敢自己造谣的！"
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "回复<'花升花落'><'花升花落'>[耶]"
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "回复<'巨蟹座辣辣'>[握手][耶]"
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9,
+                16
+            ],
+            "content": "[泪]是不是真的封城了啊？咱们哈尔滨人去外地会不会落地就被隔离啊？我老公刚接到通知让出差去河北[允悲]"
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "回复<'爱吃螃蟹的嘟妈'>转发微信朋友视频，非槐树传人摄影。"
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "content": "你这是造谣吧，这不属于封城"
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "转发朋友微信视频，不知是否属实，绝不敢造谣！"
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "回复<'爱吃螃蟹的嘟妈'><'巨蟹座辣辣'>[good]"
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "回复<'七夕大将军'>[握手]"
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [
+                15
+            ],
+            "content": "区分一下封城和封小区吧……常识问题真懒得吐槽"
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [],
+            "content": "谢谢你，转发朋友的微信视频。"
+        },
+        {
+            "comment id": 16,
+            "parent": 8,
+            "children": [],
+            "content": "回复<'仙女味的烁烁Y'>转发朋友微信视频，不知是否属实。祝你快乐！"
+        }
+    ]
+}

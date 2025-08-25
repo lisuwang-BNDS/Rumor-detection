@@ -1,0 +1,53 @@
+{
+    "source": {
+        "content": "温馨提醒：宁波北仑高速路口，下高速的全部住帐篷，隔离14天，四周挖沟，东海舰队值守，跑都没地方跑。中国真强大荥阳市黄君一去不复返的微博视频",
+        "tweet id": "4468265240178357",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "谣言"
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "赶紧删除，谣言"
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "图片评论"
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "谣言"
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "这不就是典型的外地人装本地人带zf节奏么，只不过这是个傻子还写自己在河南省..."
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "谣言，已经辟谣"
+        },
+        {
+            "comment id": 6,
+            "parent": 4,
+            "children": [],
+            "content": "我也只是转发，可能没有考虑全面，只考虑了疫情需要正能量。没必要装，如果装浙江人我用的着定位"
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "source": {
+        "content": "#上海浦东#网友传言:机场搬运工，接触冷库的，昨天医院就诊，ct一塌糊涂，都是毛玻璃样改变了，家里有个10岁的孩子，也在发烧[可怜]作孽上海",
+        "tweet id": "4569390626119876",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "哈雷路星巴克封掉了"
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                11,
+                13
+            ],
+            "content": "家里小朋友不是幼儿园吗幼儿园都关了"
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "作孽啊，不过，阿拉上海医疗技术还是来塞的。只要控制住，就没问题。但是，个则撒堵的两号线一天多少宁要坐。"
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "对，发哈发哈哦"
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "那么多起冷链传播了，该有点措施了吧？"
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "啊[衰]"
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "已经确定了？"
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "图片评论"
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9,
+                19
+            ],
+            "content": "假的吧"
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "回复<'呆到深处乛自然萌'>焦急等待官方辟谣信息"
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "不会吧，真的吗"
+        },
+        {
+            "comment id": 11,
+            "parent": 1,
+            "children": [],
+            "content": "幼儿园是用来做集中做核酸征用的吧？[挖鼻]"
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "周六刚去过佛罗伦萨"
+        },
+        {
+            "comment id": 13,
+            "parent": 1,
+            "children": [],
+            "content": "回复<'某月末日记'>实锤了，目前一例"
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "content": "不是说家里上幼儿园吗。。"
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [
+                26
+            ],
+            "content": "只是好奇，这种信息来源是哪里呀"
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [],
+            "content": "接触冷库现在是高危职业了[允悲]希望能尽快康复吧"
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [
+                27
+            ],
+            "content": "我们幼儿园早上通知摸排机场工作人员。真假，自己判断。"
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [],
+            "content": "同事说他们娃的学校在排查了不知道真的假的"
+        },
+        {
+            "comment id": 19,
+            "parent": 8,
+            "children": [],
+            "content": "坐等官方辟谣，最好是虚惊一场"
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [],
+            "content": "别传谣了槽"
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [],
+            "content": "<'巧克力奥利奥冰沙'>@巧克力奥利奥冰沙"
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [
+                23
+            ],
+            "content": "mark一下看看是造谣还是先知"
+        },
+        {
+            "comment id": 23,
+            "parent": 22,
+            "children": [],
+            "content": "坐等官方消息"
+        },
+        {
+            "comment id": 24,
+            "parent": -1,
+            "children": [
+                25
+            ],
+            "content": "假的"
+        },
+        {
+            "comment id": 25,
+            "parent": 24,
+            "children": [],
+            "content": "新闻发布会都开了"
+        },
+        {
+            "comment id": 26,
+            "parent": 15,
+            "children": [],
+            "content": "网友提供，具体肯定事发附近地区的人或者相关单位的人"
+        },
+        {
+            "comment id": 27,
+            "parent": 17,
+            "children": [],
+            "content": "[doge]"
+        }
+    ]
+}

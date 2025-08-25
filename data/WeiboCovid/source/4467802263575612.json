@@ -1,0 +1,156 @@
+{
+    "source": {
+        "content": "美国瑞德西韦，已获川普总统特批，向中国豁免制病毒特效药的专利，钟南山亲自去机场，迎接该公司的老总，有了特效药生产授权，中国的药厂，可以自己生产这个药。",
+        "tweet id": "4467802263575612",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "这是假消息，目前看肯定是要钱的"
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "豁免专利假新闻，请不要带节奏"
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "你确定这是药厂老总吗？昨天的报道，并不难查出照片中这个人是谁"
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "美国人五年前合成的，不是很好治疗，只有抑制剂。"
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                7,
+                10
+            ],
+            "content": "4月27日后呢？高价药？还是免费药？"
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "环球时报都辟谣了，那药都没经过临床，哪来的免专利，移花接木出来的假新闻[挖鼻]"
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "辟谣了，求求你别造谣了"
+        },
+        {
+            "comment id": 7,
+            "parent": 4,
+            "children": [],
+            "content": "我担心的是即使能治愈，可能存在潜伏隐患，"
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "授权只到4月27日，最多完成临床试验"
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "假新闻"
+        },
+        {
+            "comment id": 10,
+            "parent": 4,
+            "children": [],
+            "content": "这个被证实是假的，暂时不能被删除。"
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "带路党，确定了再高潮吧"
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "豁免是假，但是潜在抑制效果是有的。腾讯较真上辟谣了。"
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "都辟谣了大哥"
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "content": "辟谣了"
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [],
+            "content": "谣言，已经辟谣了的"
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [],
+            "content": "谣言删了吧"
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [],
+            "content": "尼玛这节奏带的钟南山去接不懂别装懂[嘻嘻][嘻嘻][嘻嘻]"
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [],
+            "content": "白云山制药，获取了相关数据？"
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [
+                20
+            ],
+            "content": "艾滋病，埃博拉，非典都是美国人，在实验室合成的。"
+        },
+        {
+            "comment id": 20,
+            "parent": 19,
+            "children": [],
+            "content": "回复<'一月昱公子'>你算哪条道上的？"
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [
+                22
+            ],
+            "content": "是假消息从未豁免今天环球时报辟谣了"
+        },
+        {
+            "comment id": 22,
+            "parent": 21,
+            "children": [],
+            "content": "他们不会看辟谣的"
+        }
+    ]
+}

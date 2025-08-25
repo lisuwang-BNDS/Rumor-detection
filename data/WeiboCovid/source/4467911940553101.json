@@ -1,0 +1,90 @@
+{
+    "source": {
+        "content": "这是武汉一个小区居民用高浓度酒精室内消毒，引发火灾！#市民逃生时还不忘戴上口罩#大家注意，如果家里没有感染过的病人，就无需酒精消毒[大哭]室内消毒净化，我用甲立方病毒狙击手[强][强][强]姚春华-空气管家-靶向除甲醛的微博视频",
+        "tweet id": "4467911940553101",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                11
+            ],
+            "content": "造谣一张嘴"
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "真的是失火了"
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3,
+                4
+            ],
+            "content": "你怎么知道是酒精消毒造成的？官方都辟谣了"
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "哪里辟谣了？"
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [],
+            "content": "回复<'姚春华-空气管家-靶向除甲醛'>武汉消防都引用了你微博截图；还闲自己不够丢脸吗？我看你货都该通通滞销[太开心]"
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "为了卖货，置别人生命安全于不顾，还要不要脸"
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "本来是为提醒大家注意安全[心]，现在被认定为谣言了[怒]"
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8,
+                10
+            ],
+            "content": "家里用高浓度酒精消毒是多此一举了。"
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "无人怎么失火的？"
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "在线造谣会绝种的"
+        },
+        {
+            "comment id": 10,
+            "parent": 7,
+            "children": [],
+            "content": "你在现场吗？"
+        },
+        {
+            "comment id": 11,
+            "parent": 0,
+            "children": [],
+            "content": "举报就是的了"
+        }
+    ]
+}

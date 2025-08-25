@@ -1,0 +1,603 @@
+{
+    "source": {
+        "content": "不会吧？我十天前从成都走，现在快到杭州了，这……",
+        "tweet id": "4581276139393947",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "字体都不一样，中英文也对不上"
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "辟谣了"
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "应该是p的，如果真的是这样那还得了[嘻嘻]"
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "我不相信我们江苏会这么干"
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "火眼金睛[good]"
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "p的"
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "英文和中文对不上～"
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "不是吧"
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "自媒体无下限，为博流量"
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "你这儿谣言也不少"
+        },
+        {
+            "comment id": 10,
+            "parent": 2,
+            "children": [],
+            "content": "那还好"
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "删了吧，刚看到造谣的原博都删了"
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "看你这脑子也不太好使，可能不认识英文，书读少了？"
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "明显的P图，英文也不看，发出来秀智商？"
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "content": "太假了"
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [],
+            "content": "机场不可能这么写的文字写法就有问题[嘻嘻]"
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [],
+            "content": "字体都不一样，中英文也对不上"
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [],
+            "content": "谣言是怎么传播的？就是这样传播的…"
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [],
+            "content": "看原图和辟谣图"
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [],
+            "content": "很可能是P的，英文明明是【四川省成都市郫都区】，中文【原路返回】的字体也不一样。"
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [],
+            "content": "这英文？[晕]"
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [],
+            "content": "江苏人民不认南京是有原因的"
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "content": "[汗]悲剧了"
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [],
+            "content": "你是憨批吧？传播谣言"
+        },
+        {
+            "comment id": 24,
+            "parent": -1,
+            "children": [],
+            "content": "都看不懂英文？"
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [],
+            "content": "原路返回！回字p的不到位[doge]"
+        },
+        {
+            "comment id": 26,
+            "parent": -1,
+            "children": [],
+            "content": "这样不好[哼][哼]"
+        },
+        {
+            "comment id": 27,
+            "parent": -1,
+            "children": [],
+            "content": "本来没事的，现在这么一说，晚点就敲门送水[喵喵]"
+        },
+        {
+            "comment id": 28,
+            "parent": -1,
+            "children": [],
+            "content": "英文写着来自四川成都郫都区的旅客需要填报……可见是假的，P的。原路返回可还行[允悲]"
+        },
+        {
+            "comment id": 29,
+            "parent": -1,
+            "children": [],
+            "content": "中英文不对应啊😅"
+        },
+        {
+            "comment id": 30,
+            "parent": -1,
+            "children": [
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                55,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                67,
+                68,
+                69,
+                70,
+                72,
+                73,
+                74,
+                76,
+                78,
+                79,
+                80,
+                81
+            ],
+            "content": "看图"
+        },
+        {
+            "comment id": 31,
+            "parent": 30,
+            "children": [],
+            "content": "对这些造谣的人就该顶格处罚"
+        },
+        {
+            "comment id": 32,
+            "parent": 30,
+            "children": [],
+            "content": "哈哈哈哈哈哈哈，ps的英文不行，英文都没有p，哈哈哈哈哈哈哈"
+        },
+        {
+            "comment id": 33,
+            "parent": 30,
+            "children": [],
+            "content": "就这水平"
+        },
+        {
+            "comment id": 34,
+            "parent": 30,
+            "children": [],
+            "content": "黑南京duck不必"
+        },
+        {
+            "comment id": 35,
+            "parent": 30,
+            "children": [],
+            "content": "但凡带马赛克的图片都要自动忽略"
+        },
+        {
+            "comment id": 36,
+            "parent": 30,
+            "children": [],
+            "content": "仔细看一下英文就发现不太对//<'Edward_FANXJ'>ps的，删了吧"
+        },
+        {
+            "comment id": 37,
+            "parent": 30,
+            "children": [],
+            "content": "看什么？看ps？"
+        },
+        {
+            "comment id": 38,
+            "parent": 30,
+            "children": [],
+            "content": "刚落地南京"
+        },
+        {
+            "comment id": 39,
+            "parent": 30,
+            "children": [
+                54,
+                75
+            ],
+            "content": "这个证实是真的吗？"
+        },
+        {
+            "comment id": 40,
+            "parent": 30,
+            "children": [],
+            "content": "举报走一走"
+        },
+        {
+            "comment id": 41,
+            "parent": 30,
+            "children": [
+                42
+            ],
+            "content": "小圈这是发图出来辟谣的，都把中英文那里标记上了，怎么还有人觉得是发假图出来带节奏呢？不会吧不会吧，不会真有人理解力这么差吧？[awsl]"
+        },
+        {
+            "comment id": 42,
+            "parent": 41,
+            "children": [],
+            "content": "回复<'世界只你一人365'>可能这些人连拼音都不懂[doge]"
+        },
+        {
+            "comment id": 43,
+            "parent": 30,
+            "children": [],
+            "content": "啊哈哈哈哈哈卧槽"
+        },
+        {
+            "comment id": 44,
+            "parent": 30,
+            "children": [],
+            "content": "笑死[笑cry][笑cry]"
+        },
+        {
+            "comment id": 45,
+            "parent": 30,
+            "children": [
+                66,
+                77
+            ],
+            "content": "真的假的？我下周成都飞南京，能进南京么"
+        },
+        {
+            "comment id": 46,
+            "parent": 30,
+            "children": [],
+            "content": "啥意思？年初武汉的惨景又开始了吗？"
+        },
+        {
+            "comment id": 47,
+            "parent": 30,
+            "children": [],
+            "content": "看不懂英文，也看不懂划红线是什么意思的，就不要关注航旅了"
+        },
+        {
+            "comment id": 48,
+            "parent": 30,
+            "children": [],
+            "content": "毫无PS痕迹[doge]"
+        },
+        {
+            "comment id": 49,
+            "parent": 30,
+            "children": [],
+            "content": "删了吧这条"
+        },
+        {
+            "comment id": 50,
+            "parent": 30,
+            "children": [
+                56
+            ],
+            "content": "这应该是原版的网页链接"
+        },
+        {
+            "comment id": 51,
+            "parent": 30,
+            "children": [],
+            "content": "博主是让大家自己找差别，辟谣[笑cry]原图是<'鄢烈山'>@鄢烈山发的，老谣棍把原博删了"
+        },
+        {
+            "comment id": 52,
+            "parent": 30,
+            "children": [
+                53
+            ],
+            "content": "有什么权力叫人原路返回"
+        },
+        {
+            "comment id": 53,
+            "parent": 52,
+            "children": [],
+            "content": "因为是闲着没事干的网友PS的，机场已经报警"
+        },
+        {
+            "comment id": 54,
+            "parent": 39,
+            "children": [],
+            "content": "成都市郫都区标的也不太说服力吧"
+        },
+        {
+            "comment id": 55,
+            "parent": 30,
+            "children": [],
+            "content": "对啊，大南京的气度一直是有的。乍一看还相信了呢。"
+        },
+        {
+            "comment id": 56,
+            "parent": 50,
+            "children": [],
+            "content": "拨乱反正[赞]"
+        },
+        {
+            "comment id": 57,
+            "parent": 30,
+            "children": [],
+            "content": "你别这样，删了吧"
+        },
+        {
+            "comment id": 58,
+            "parent": 30,
+            "children": [],
+            "content": "可怕的互联网"
+        },
+        {
+            "comment id": 59,
+            "parent": 30,
+            "children": [],
+            "content": "英文的意思好像是说成都旅客在这里登记？"
+        },
+        {
+            "comment id": 60,
+            "parent": 30,
+            "children": [],
+            "content": "这不行这样写药丸肯定假的哈哈哈哈"
+        },
+        {
+            "comment id": 61,
+            "parent": 30,
+            "children": [],
+            "content": "传谣也犯法的哦[吃瓜]"
+        },
+        {
+            "comment id": 62,
+            "parent": 30,
+            "children": [],
+            "content": "太假了吧，都P歪了，技术不太行"
+        },
+        {
+            "comment id": 63,
+            "parent": 30,
+            "children": [],
+            "content": "凭什么？"
+        },
+        {
+            "comment id": 64,
+            "parent": 30,
+            "children": [],
+            "content": "欺负不懂英语的，怎么没有把英语也ps啊[doge][doge][doge]"
+        },
+        {
+            "comment id": 65,
+            "parent": 30,
+            "children": [],
+            "content": "假的还传播？？？？"
+        },
+        {
+            "comment id": 66,
+            "parent": 45,
+            "children": [],
+            "content": "回复<'咸鱼百科'>吓一跳[二哈]"
+        },
+        {
+            "comment id": 67,
+            "parent": 30,
+            "children": [],
+            "content": "终于明白，眼睛看到的，未必是真的"
+        },
+        {
+            "comment id": 68,
+            "parent": 30,
+            "children": [],
+            "content": "中英文根本不是一回事儿"
+        },
+        {
+            "comment id": 69,
+            "parent": 30,
+            "children": [],
+            "content": "可惜P图的人不懂英语[doge]"
+        },
+        {
+            "comment id": 70,
+            "parent": 30,
+            "children": [
+                71
+            ],
+            "content": "英文都看不懂的话，还是不要玩航旅圈了吧？"
+        },
+        {
+            "comment id": 71,
+            "parent": 70,
+            "children": [],
+            "content": "你的理解能力还有待提高[doge]"
+        },
+        {
+            "comment id": 72,
+            "parent": 30,
+            "children": [],
+            "content": "不要传谣"
+        },
+        {
+            "comment id": 73,
+            "parent": 30,
+            "children": [],
+            "content": "ps的，删了吧"
+        },
+        {
+            "comment id": 74,
+            "parent": 30,
+            "children": [],
+            "content": "这造谣的人可恶"
+        },
+        {
+            "comment id": 75,
+            "parent": 39,
+            "children": [],
+            "content": "都标出了哪里是假的怎么还问真的假的呢[疑问]"
+        },
+        {
+            "comment id": 76,
+            "parent": 30,
+            "children": [],
+            "content": "内心是这样"
+        },
+        {
+            "comment id": 77,
+            "parent": 45,
+            "children": [],
+            "content": "假的"
+        },
+        {
+            "comment id": 78,
+            "parent": 30,
+            "children": [],
+            "content": "[费解]啊"
+        },
+        {
+            "comment id": 79,
+            "parent": 30,
+            "children": [],
+            "content": "如果是P的，这个P图的有点缺德啊。。。"
+        },
+        {
+            "comment id": 80,
+            "parent": 30,
+            "children": [],
+            "content": "Reportingarea，英文说的“申报区”。这图太假了"
+        },
+        {
+            "comment id": 81,
+            "parent": 30,
+            "children": [],
+            "content": "能不能吃碗鸭血粉丝汤再返回？[二哈]"
+        },
+        {
+            "comment id": 82,
+            "parent": -1,
+            "children": [
+                83,
+                84,
+                85,
+                86,
+                87
+            ],
+            "content": "南京禄口机场厉害了[doge][doge]"
+        },
+        {
+            "comment id": 83,
+            "parent": 82,
+            "children": [],
+            "content": "发这图的几个号都被举报封号了[微笑]不造谣不传谣，不拿抗疫开玩笑，人人有责"
+        },
+        {
+            "comment id": 84,
+            "parent": 82,
+            "children": [],
+            "content": "劝删"
+        },
+        {
+            "comment id": 85,
+            "parent": 82,
+            "children": [],
+            "content": "你已经违法了[微笑]"
+        },
+        {
+            "comment id": 86,
+            "parent": 82,
+            "children": [],
+            "content": "都已经辟谣了，你还在传播?"
+        },
+        {
+            "comment id": 87,
+            "parent": 82,
+            "children": [],
+            "content": "官方辟谣，这是p图"
+        }
+    ]
+}

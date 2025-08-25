@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "一架从意大利到喀麦隆(非洲)的客机被发现全部受肺炎感染,部分乘客欲逃离被警察开枪射击！Ali-Allen的微博视频",
+        "tweet id": "4485974379440035",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "假的"
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "请问您的这条消息是从哪里看到的呢"
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "太要紧了"
+        }
+    ]
+}

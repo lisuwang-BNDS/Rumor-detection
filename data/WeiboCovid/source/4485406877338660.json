@@ -1,0 +1,43 @@
+{
+    "source": {
+        "content": "#疫情#俄罗斯硬壳总统放狮子上街防止百姓出门笑疯",
+        "tweet id": "4485406877338660",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "国外辟谣了假的但真的好好笑好符合战斗民族的尿性哈哈哈哈哈"
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "别当真[允悲]笑笑就好了[允悲]"
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "感觉是假的就是好好笑"
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "俄罗斯有狮子嘛？你要编也编放棕熊吧。就算放熊，俄罗斯人照样撸熊的好吧"
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "我不知道呢也不知道是真是假这个新闻哈哈哈战斗民族一切皆有可能"
+        }
+    ]
+}

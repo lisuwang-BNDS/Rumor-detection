@@ -1,0 +1,78 @@
+{
+    "source": {
+        "content": "发生在湖北，发生荆州，发生在沙市，卑鄙依然是卑鄙，恶人依然是恶人。绿洲火焱G的微博视频",
+        "tweet id": "4475608987487595",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "这视频要火"
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "<'央视新闻'>@央视新闻<'人民日报'>@人民日报看看，这如果是真的，那些当地的政府部门负责人就应该千刀万剐，无论到什么时候，都不应该浪费食物，何况是疫情灾难的当下<'新闻一加一'>@新闻一加一<'姚晨'>@姚晨"
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "<'林熊猫'>@林熊猫<'专业戳轮胎熊律师'>@专业戳轮胎熊律师<'绝命-墨菲'>@绝命-墨菲"
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "你有证据？没有证据就是造谣了兄弟！"
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "请说明真相"
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "都被删除了，好几个视频了"
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "<'黑猫投诉'>@黑猫投诉"
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8,
+                9
+            ],
+            "content": "希望媒体尽快调查视频真伪，否则真的是践踏了全国人民的一番心意。"
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "视频不能作假，就看看是哪个地方的了"
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [],
+            "content": "回复<'未曾语'>但愿如此，否则太……"
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "网页链接官方消息"
+        }
+    ]
+}
