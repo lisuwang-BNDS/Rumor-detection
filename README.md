@@ -2,7 +2,8 @@
 
 ## Updates
 
-*Initial release: Added v1 implementation with government domain filtering and evaluation results*
+* Update 2: Added DeepSeek model implementation (2_web_search_rag_gov_ds.py) with evaluation results (web_search_rag_predict_deepseek.json), and baseline training data (weibo_source_comments.jsonl)*
+* Update 1: Added v1 implementation (1_web_search_rag_gov_glm.py) with evaluation results (web_search_rag_predict.json), using government domain filtering and GLM-4-Plus model*
 
 This repository contains research on rumor detection using web search and retrieval-augmented generation (RAG) techniques. The goal is to enhance rumor detection capabilities by incorporating external web search results into the classification process.
 
@@ -31,6 +32,21 @@ This implementation uses:
 - **Negative F1**: 0.5405
 - **F1**: 0.8468
 
+### Web Search RAG with DeepSeek Model (2_web_search_rag_gov_ds.py)
+
+This implementation uses:
+- DeepSeek model for classification
+- Web search functionality restricted to government domains (.gov.cn)
+- Retrieval of relevant information to augment the classification prompt
+- Same training data as baseline (weibo_source_comments.jsonl)
+
+**Evaluation Results:**
+- **Accuracy**: 0.8200
+- **Precision**: 0.8065
+- **Recall**: 0.9470
+- **Negative F1**: 0.7016
+- **F1**: 0.8711
+
 ## Research Path
 
 ### Phase 1: Government Domain Filtering (Completed)
@@ -38,7 +54,10 @@ This implementation uses:
 - **Approach**: Restrict web search to government domains only
 - **Status**: Completed with evaluation metrics above
 
-### Phase 2: Alternative Model Integration (Planned)
+### Phase 2: Alternative Model Integration (Completed)
+- **File**: `2_web_search_rag_gov_ds.py`
+- **Approach**: Use DeepSeek model instead of GLM-4-Plus
+- **Status**: Completed with results in `data/web_search_rag_predict_deepseek.json`
 
 ### Phase 3: Expanded Domain Search (Planned)
 
@@ -90,6 +109,8 @@ This implementation uses:
 3. Run the desired implementation:
    ```bash
    python 1_web_search_rag_gov_glm.py
+   # or
+   python 2_web_search_rag_gov_ds.py
    ```
 
 ## Dataset
@@ -127,6 +148,7 @@ We use standard classification metrics to evaluate our approach:
 | Implementation | Accuracy | Precision | Recall | Negative F1 | F1 |
 |----------------|----------|-----------|--------|-------------|-----|
 | 1_web_search_rag_gov_glm.py | 0.7689 | 0.7553 | 0.9470 | 0.5815 | 0.8403 |
+| 2_web_search_rag_gov_ds.py | 0.8200 | 0.8065 | 0.9470 | 0.7016 | 0.8711 |
 
 ## License
 
