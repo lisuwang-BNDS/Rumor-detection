@@ -2,6 +2,7 @@
 
 ## Updates
 
+* Update 3: Added expanded domain search implementation (3_web_search_rag_all_glm.py) with evaluation results (web_search_rag_predict_glm4_all.json), showing improved performance across all metrics*
 * Update 2: Added DeepSeek model implementation (2_web_search_rag_gov_ds.py) with evaluation results (web_search_rag_predict_deepseek.json), and baseline training data (weibo_source_comments.jsonl)*
 * Update 1: Added v1 implementation (1_web_search_rag_gov_glm.py) with evaluation results (web_search_rag_predict.json), using government domain filtering and GLM-4-Plus model*
 
@@ -47,6 +48,21 @@ This implementation uses:
 - **Negative F1**: 0.7016
 - **F1**: 0.8711
 
+### Web Search RAG with Expanded Domain Search (3_web_search_rag_all_glm.py)
+
+This implementation uses:
+- ZhipuAI's GLM-4-Plus model for classification
+- Web search functionality across all domains (not restricted to government sites)
+- Retrieval of relevant information to augment the classification prompt
+- Enhanced search strategy to improve information retrieval
+
+**Evaluation Results:**
+- **Accuracy**: 0.8418
+- **Precision**: 0.8419
+- **Recall**: 0.9280
+- **Negative F1**: 0.7566
+- **F1**: 0.8829
+
 ## Research Path
 
 ### Phase 1: Government Domain Filtering (Completed)
@@ -59,7 +75,17 @@ This implementation uses:
 - **Approach**: Use DeepSeek model instead of GLM-4-Plus
 - **Status**: Completed with results in `data/web_search_rag_predict_deepseek.json`
 
-### Phase 3: Expanded Domain Search (Planned)
+### Phase 3: Expanded Domain Search (Completed)
+- **File**: `3_web_search_rag_all_glm.py`
+- **Approach**: Remove government domain restriction to search across all domains
+- **Status**: Completed with results in `data/web_search_rag_predict_glm4_all.json`
+
+### Phase 4: GLM-4.5 with Enhanced Search Strategy (Planned)
+- **File**: `4_web_search_rag_all_glm45.py`
+- **Approach**: Implement advanced search strategies and prompt optimization using GLM-4.5 model
+- **Status**: Planned for next implementation
+- **Note**: GLM-4.5 is theoretically superior to GLM-4-Plus, expected to provide enhanced performance in rumor detection tasks
+
 
 ## Future Research Directions
 
@@ -111,6 +137,10 @@ This implementation uses:
    python 1_web_search_rag_gov_glm.py
    # or
    python 2_web_search_rag_gov_ds.py
+   # or
+   python 3_web_search_rag_all_glm.py
+   # or (when available)
+   python 4_web_search_rag_all_glm45.py
    ```
 
 ## Dataset
@@ -149,6 +179,7 @@ We use standard classification metrics to evaluate our approach:
 |----------------|----------|-----------|--------|-------------|-----|
 | 1_web_search_rag_gov_glm.py | 0.7689 | 0.7553 | 0.9470 | 0.5815 | 0.8403 |
 | 2_web_search_rag_gov_ds.py | 0.8200 | 0.8065 | 0.9470 | 0.7016 | 0.8711 |
+| 3_web_search_rag_all_glm.py | 0.8418 | 0.8419 | 0.9280 | 0.7566 | 0.8829 |
 
 ## License
 
