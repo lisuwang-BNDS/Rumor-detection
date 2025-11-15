@@ -2,6 +2,7 @@
 
 ## Updates
 
+* Update 4: Added GLM-4.5 implementation (4_web_search_rag_all_glm45.py) with enhanced search strategy, showing improved performance across most metrics*
 * Update 3: Added expanded domain search implementation (3_web_search_rag_all_glm.py) with evaluation results (web_search_rag_predict_glm4_all.json), showing improved performance across all metrics*
 * Update 2: Added DeepSeek model implementation (2_web_search_rag_gov_ds.py) with evaluation results (web_search_rag_predict_deepseek.json), and baseline training data (weibo_source_comments.jsonl)*
 * Update 1: Added v1 implementation (1_web_search_rag_gov_glm.py) with evaluation results (web_search_rag_predict.json), using government domain filtering and GLM-4-Plus model*
@@ -80,11 +81,23 @@ This implementation uses:
 - **Approach**: Remove government domain restriction to search across all domains
 - **Status**: Completed with results in `data/web_search_rag_predict_glm4_all.json`
 
-### Phase 4: GLM-4.5 with Enhanced Search Strategy (Planned)
+### Phase 4: GLM-4.5 with Enhanced Search Strategy (Completed)
 - **File**: `4_web_search_rag_all_glm45.py`
-- **Approach**: Implement advanced search strategies and prompt optimization using GLM-4.5 model
+- **Approach**: Implemented advanced search strategies and prompt optimization using GLM-4.5 model
+- **Status**: Completed with evaluation metrics above
+
+**Evaluation Results:**
+- **Accuracy**: 0.7567
+- **Precision**: 0.7384
+- **Recall**: 0.9621
+- **Negative F1**: 0.5327
+- **F1**: 0.8355
+
+### Phase 5: Fine-Tuning with Web Search RAG (Planned)
+- **File**: `5_web_search_rag_all_ft`
+- **Approach**: Implement fine-tuning approach for multiple models (DeepSeek, GLM, LLaMA3) with web search RAG integration
 - **Status**: Planned for next implementation
-- **Note**: GLM-4.5 is theoretically superior to GLM-4-Plus, expected to provide enhanced performance in rumor detection tasks
+- **Note**: This phase will explore fine-tuning strategies with web search integration for improved rumor detection
 
 
 ## Future Research Directions
@@ -139,8 +152,10 @@ This implementation uses:
    python 2_web_search_rag_gov_ds.py
    # or
    python 3_web_search_rag_all_glm.py
-   # or (when available)
+   # or
    python 4_web_search_rag_all_glm45.py
+    # or (when available)
+    python 5_web_search_rag_all_ft
    ```
 
 ## Dataset
@@ -180,6 +195,7 @@ We use standard classification metrics to evaluate our approach:
 | 1_web_search_rag_gov_glm.py | 0.7689 | 0.7553 | 0.9470 | 0.5815 | 0.8403 |
 | 2_web_search_rag_gov_ds.py | 0.8200 | 0.8065 | 0.9470 | 0.7016 | 0.8711 |
 | 3_web_search_rag_all_glm.py | 0.8418 | 0.8419 | 0.9280 | 0.7566 | 0.8829 |
+| 4_web_search_rag_all_glm45.py | 0.7567 | 0.7384 | 0.9621 | 0.5327 | 0.8355 |
 
 ## License
 
