@@ -1,0 +1,204 @@
+[INFO|2025-10-18 04:25:43] tokenization_utils_base.py:2066 >> loading file tokenizer.model
+[INFO|2025-10-18 04:25:43] tokenization_utils_base.py:2066 >> loading file tokenizer.json
+[INFO|2025-10-18 04:25:43] tokenization_utils_base.py:2066 >> loading file added_tokens.json
+[INFO|2025-10-18 04:25:43] tokenization_utils_base.py:2066 >> loading file special_tokens_map.json
+[INFO|2025-10-18 04:25:43] tokenization_utils_base.py:2066 >> loading file tokenizer_config.json
+[INFO|2025-10-18 04:25:43] tokenization_utils_base.py:2066 >> loading file chat_template.jinja
+[INFO|2025-10-18 04:25:43] tokenization_utils_base.py:2337 >> Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+[INFO|2025-10-18 04:25:43] configuration_utils.py:763 >> loading configuration file /root/autodl-tmp/unsloth/DeepSeek-R1-0528-Qwen3-8B/config.json
+[WARNING|2025-10-18 04:25:43] modeling_rope_utils.py:418 >> Unrecognized keys in `rope_scaling` for 'rope_type'='yarn': {'attn_factor'}
+[INFO|2025-10-18 04:25:43] configuration_utils.py:839 >> Model config Qwen3Config {
+  "architectures": [
+    "Qwen3ForCausalLM"
+  ],
+  "attention_bias": false,
+  "attention_dropout": 0.0,
+  "bos_token_id": 151643,
+  "dtype": "bfloat16",
+  "eos_token_id": 151645,
+  "head_dim": 128,
+  "hidden_act": "silu",
+  "hidden_size": 4096,
+  "initializer_range": 0.02,
+  "intermediate_size": 12288,
+  "layer_types": [
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention"
+  ],
+  "max_position_embeddings": 131072,
+  "max_window_layers": 36,
+  "model_type": "qwen3",
+  "num_attention_heads": 32,
+  "num_hidden_layers": 36,
+  "num_key_value_heads": 8,
+  "pad_token_id": 151654,
+  "rms_norm_eps": 1e-06,
+  "rope_scaling": {
+    "attn_factor": 0.8782488562869419,
+    "factor": 4.0,
+    "original_max_position_embeddings": 32768,
+    "rope_type": "yarn"
+  },
+  "rope_theta": 1000000,
+  "sliding_window": null,
+  "tie_word_embeddings": false,
+  "transformers_version": "4.56.2",
+  "unsloth_fixed": true,
+  "use_cache": true,
+  "use_sliding_window": false,
+  "vocab_size": 151936
+}
+
+[INFO|2025-10-18 04:25:43] tokenization_utils_base.py:2066 >> loading file tokenizer.model
+[INFO|2025-10-18 04:25:43] tokenization_utils_base.py:2066 >> loading file tokenizer.json
+[INFO|2025-10-18 04:25:43] tokenization_utils_base.py:2066 >> loading file added_tokens.json
+[INFO|2025-10-18 04:25:43] tokenization_utils_base.py:2066 >> loading file special_tokens_map.json
+[INFO|2025-10-18 04:25:43] tokenization_utils_base.py:2066 >> loading file tokenizer_config.json
+[INFO|2025-10-18 04:25:43] tokenization_utils_base.py:2066 >> loading file chat_template.jinja
+[INFO|2025-10-18 04:25:44] tokenization_utils_base.py:2337 >> Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+[INFO|2025-10-18 04:25:44] logging.py:143 >> Loading dataset web_search_std_rag_testdata_weibocovid_openai.json...
+[INFO|2025-10-18 04:25:48] configuration_utils.py:763 >> loading configuration file /root/autodl-tmp/unsloth/DeepSeek-R1-0528-Qwen3-8B/config.json
+[WARNING|2025-10-18 04:25:48] modeling_rope_utils.py:418 >> Unrecognized keys in `rope_scaling` for 'rope_type'='yarn': {'attn_factor'}
+[INFO|2025-10-18 04:25:48] configuration_utils.py:839 >> Model config Qwen3Config {
+  "architectures": [
+    "Qwen3ForCausalLM"
+  ],
+  "attention_bias": false,
+  "attention_dropout": 0.0,
+  "bos_token_id": 151643,
+  "dtype": "bfloat16",
+  "eos_token_id": 151645,
+  "head_dim": 128,
+  "hidden_act": "silu",
+  "hidden_size": 4096,
+  "initializer_range": 0.02,
+  "intermediate_size": 12288,
+  "layer_types": [
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention",
+    "full_attention"
+  ],
+  "max_position_embeddings": 131072,
+  "max_window_layers": 36,
+  "model_type": "qwen3",
+  "num_attention_heads": 32,
+  "num_hidden_layers": 36,
+  "num_key_value_heads": 8,
+  "pad_token_id": 151654,
+  "rms_norm_eps": 1e-06,
+  "rope_scaling": {
+    "attn_factor": 0.8782488562869419,
+    "factor": 4.0,
+    "original_max_position_embeddings": 32768,
+    "rope_type": "yarn"
+  },
+  "rope_theta": 1000000,
+  "sliding_window": null,
+  "tie_word_embeddings": false,
+  "transformers_version": "4.56.2",
+  "unsloth_fixed": true,
+  "use_cache": true,
+  "use_sliding_window": false,
+  "vocab_size": 151936
+}
+
+[WARNING|2025-10-18 04:25:48] logging.py:328 >> `torch_dtype` is deprecated! Use `dtype` instead!
+[INFO|2025-10-18 04:25:48] logging.py:143 >> KV cache is enabled for faster generation.
+[WARNING|2025-10-18 04:25:48] logging.py:328 >> `torch_dtype` is deprecated! Use `dtype` instead!
+[INFO|2025-10-18 04:25:48] modeling_utils.py:1277 >> loading weights file /root/autodl-tmp/unsloth/DeepSeek-R1-0528-Qwen3-8B/model.safetensors.index.json
+[INFO|2025-10-18 04:25:48] modeling_utils.py:2466 >> Instantiating Qwen3ForCausalLM model under default dtype torch.bfloat16.
+[INFO|2025-10-18 04:25:48] configuration_utils.py:1055 >> Generate config GenerationConfig {
+  "bos_token_id": 151643,
+  "eos_token_id": 151645,
+  "pad_token_id": 151654
+}
+
+[INFO|2025-10-18 04:25:52] modeling_utils.py:5724 >> All model checkpoint weights were used when initializing Qwen3ForCausalLM.
+
+[INFO|2025-10-18 04:25:52] modeling_utils.py:5732 >> All the weights of Qwen3ForCausalLM were initialized from the model checkpoint at /root/autodl-tmp/unsloth/DeepSeek-R1-0528-Qwen3-8B.
+If your task is similar to the task the model of the checkpoint was trained on, you can already use Qwen3ForCausalLM for predictions without further training.
+[INFO|2025-10-18 04:25:52] configuration_utils.py:1008 >> loading configuration file /root/autodl-tmp/unsloth/DeepSeek-R1-0528-Qwen3-8B/generation_config.json
+[INFO|2025-10-18 04:25:52] configuration_utils.py:1055 >> Generate config GenerationConfig {
+  "bos_token_id": 151643,
+  "eos_token_id": 151645,
+  "max_length": 131072,
+  "pad_token_id": 151654
+}
+
+[INFO|2025-10-18 04:25:52] logging.py:143 >> Using torch SDPA for faster training and inference.
+[INFO|2025-10-18 04:25:53] logging.py:143 >> Merged 1 adapter(s).
+[INFO|2025-10-18 04:25:53] logging.py:143 >> Loaded adapter(s): saves/DeepSeek-R1-0528-8B-Distill/lora/train_2025-10-17-15-55-42/checkpoint-300
+[INFO|2025-10-18 04:25:53] logging.py:143 >> all params: 8,190,735,360
+[WARNING|2025-10-18 04:25:53] logging.py:154 >> Batch generation can be very slow. Consider using `scripts/vllm_infer.py` instead.
+[INFO|2025-10-18 04:25:53] trainer.py:4623 >> 
+***** Running Prediction *****
+[INFO|2025-10-18 04:25:53] trainer.py:4625 >>   Num examples = 411
+[INFO|2025-10-18 04:25:53] trainer.py:4628 >>   Batch size = 2
+[INFO|2025-10-18 04:31:23] logging.py:143 >> Saving prediction results to saves/DeepSeek-R1-0528-8B-Distill/lora/eval_2025-10-18-04-23-40/generated_predictions.jsonl

@@ -1,0 +1,168 @@
+[INFO|configuration_utils.py:673] 2025-08-26 17:53:10,229 >> loading configuration file /root/autodl-tmp/LLM-Research/Meta-Llama-3-8B-Instruct/config.json
+
+[INFO|configuration_utils.py:742] 2025-08-26 17:53:10,232 >> Model config LlamaConfig {
+  "_name_or_path": "/root/autodl-tmp/LLM-Research/Meta-Llama-3-8B-Instruct",
+  "architectures": [
+    "LlamaForCausalLM"
+  ],
+  "attention_bias": false,
+  "attention_dropout": 0.0,
+  "bos_token_id": 128000,
+  "eos_token_id": 128009,
+  "head_dim": 128,
+  "hidden_act": "silu",
+  "hidden_size": 4096,
+  "initializer_range": 0.02,
+  "intermediate_size": 14336,
+  "max_position_embeddings": 8192,
+  "mlp_bias": false,
+  "model_type": "llama",
+  "num_attention_heads": 32,
+  "num_hidden_layers": 32,
+  "num_key_value_heads": 8,
+  "pretraining_tp": 1,
+  "rms_norm_eps": 1e-05,
+  "rope_scaling": null,
+  "rope_theta": 500000.0,
+  "tie_word_embeddings": false,
+  "torch_dtype": "bfloat16",
+  "transformers_version": "4.45.2",
+  "use_cache": true,
+  "vocab_size": 128256
+}
+
+
+[INFO|tokenization_utils_base.py:2204] 2025-08-26 17:53:10,236 >> loading file tokenizer.json
+
+[INFO|tokenization_utils_base.py:2204] 2025-08-26 17:53:10,236 >> loading file tokenizer.model
+
+[INFO|tokenization_utils_base.py:2204] 2025-08-26 17:53:10,237 >> loading file added_tokens.json
+
+[INFO|tokenization_utils_base.py:2204] 2025-08-26 17:53:10,237 >> loading file special_tokens_map.json
+
+[INFO|tokenization_utils_base.py:2204] 2025-08-26 17:53:10,237 >> loading file tokenizer_config.json
+
+[INFO|tokenization_utils_base.py:2470] 2025-08-26 17:53:10,597 >> Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+
+[INFO|configuration_utils.py:673] 2025-08-26 17:53:10,599 >> loading configuration file /root/autodl-tmp/LLM-Research/Meta-Llama-3-8B-Instruct/config.json
+
+[INFO|configuration_utils.py:742] 2025-08-26 17:53:10,600 >> Model config LlamaConfig {
+  "_name_or_path": "/root/autodl-tmp/LLM-Research/Meta-Llama-3-8B-Instruct",
+  "architectures": [
+    "LlamaForCausalLM"
+  ],
+  "attention_bias": false,
+  "attention_dropout": 0.0,
+  "bos_token_id": 128000,
+  "eos_token_id": 128009,
+  "head_dim": 128,
+  "hidden_act": "silu",
+  "hidden_size": 4096,
+  "initializer_range": 0.02,
+  "intermediate_size": 14336,
+  "max_position_embeddings": 8192,
+  "mlp_bias": false,
+  "model_type": "llama",
+  "num_attention_heads": 32,
+  "num_hidden_layers": 32,
+  "num_key_value_heads": 8,
+  "pretraining_tp": 1,
+  "rms_norm_eps": 1e-05,
+  "rope_scaling": null,
+  "rope_theta": 500000.0,
+  "tie_word_embeddings": false,
+  "torch_dtype": "bfloat16",
+  "transformers_version": "4.45.2",
+  "use_cache": true,
+  "vocab_size": 128256
+}
+
+
+[INFO|tokenization_utils_base.py:2204] 2025-08-26 17:53:10,601 >> loading file tokenizer.json
+
+[INFO|tokenization_utils_base.py:2204] 2025-08-26 17:53:10,601 >> loading file tokenizer.model
+
+[INFO|tokenization_utils_base.py:2204] 2025-08-26 17:53:10,601 >> loading file added_tokens.json
+
+[INFO|tokenization_utils_base.py:2204] 2025-08-26 17:53:10,601 >> loading file special_tokens_map.json
+
+[INFO|tokenization_utils_base.py:2204] 2025-08-26 17:53:10,601 >> loading file tokenizer_config.json
+
+[INFO|tokenization_utils_base.py:2470] 2025-08-26 17:53:10,957 >> Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+
+[INFO|configuration_utils.py:673] 2025-08-26 17:53:16,795 >> loading configuration file /root/autodl-tmp/LLM-Research/Meta-Llama-3-8B-Instruct/config.json
+
+[INFO|configuration_utils.py:742] 2025-08-26 17:53:16,796 >> Model config LlamaConfig {
+  "_name_or_path": "/root/autodl-tmp/LLM-Research/Meta-Llama-3-8B-Instruct",
+  "architectures": [
+    "LlamaForCausalLM"
+  ],
+  "attention_bias": false,
+  "attention_dropout": 0.0,
+  "bos_token_id": 128000,
+  "eos_token_id": 128009,
+  "head_dim": 128,
+  "hidden_act": "silu",
+  "hidden_size": 4096,
+  "initializer_range": 0.02,
+  "intermediate_size": 14336,
+  "max_position_embeddings": 8192,
+  "mlp_bias": false,
+  "model_type": "llama",
+  "num_attention_heads": 32,
+  "num_hidden_layers": 32,
+  "num_key_value_heads": 8,
+  "pretraining_tp": 1,
+  "rms_norm_eps": 1e-05,
+  "rope_scaling": null,
+  "rope_theta": 500000.0,
+  "tie_word_embeddings": false,
+  "torch_dtype": "bfloat16",
+  "transformers_version": "4.45.2",
+  "use_cache": true,
+  "vocab_size": 128256
+}
+
+
+[INFO|modeling_utils.py:3729] 2025-08-26 17:53:16,984 >> loading weights file /root/autodl-tmp/LLM-Research/Meta-Llama-3-8B-Instruct/model.safetensors.index.json
+
+[INFO|modeling_utils.py:1622] 2025-08-26 17:53:16,984 >> Instantiating LlamaForCausalLM model under default dtype torch.bfloat16.
+
+[INFO|configuration_utils.py:1099] 2025-08-26 17:53:16,985 >> Generate config GenerationConfig {
+  "bos_token_id": 128000,
+  "eos_token_id": 128009
+}
+
+
+[INFO|modeling_utils.py:4574] 2025-08-26 17:53:22,617 >> All model checkpoint weights were used when initializing LlamaForCausalLM.
+
+
+[INFO|modeling_utils.py:4582] 2025-08-26 17:53:22,617 >> All the weights of LlamaForCausalLM were initialized from the model checkpoint at /root/autodl-tmp/LLM-Research/Meta-Llama-3-8B-Instruct.
+If your task is similar to the task the model of the checkpoint was trained on, you can already use LlamaForCausalLM for predictions without further training.
+
+[INFO|configuration_utils.py:1052] 2025-08-26 17:53:22,620 >> loading configuration file /root/autodl-tmp/LLM-Research/Meta-Llama-3-8B-Instruct/generation_config.json
+
+[INFO|configuration_utils.py:1099] 2025-08-26 17:53:22,620 >> Generate config GenerationConfig {
+  "bos_token_id": 128000,
+  "do_sample": true,
+  "eos_token_id": [
+    128001,
+    128009
+  ],
+  "max_length": 4096,
+  "temperature": 0.6,
+  "top_p": 0.9
+}
+
+
+[WARNING|quantizer_bnb_4bit.py:331] 2025-08-26 17:53:22,674 >> You are calling `save_pretrained` to a 4-bit converted model, but your `bitsandbytes` version doesn't support it. If you want to save 4-bit models, make sure to have `bitsandbytes>=0.41.3` installed.
+
+[INFO|trainer.py:4021] 2025-08-26 17:53:23,546 >> 
+***** Running Prediction *****
+
+[INFO|trainer.py:4023] 2025-08-26 17:53:23,546 >>   Num examples = 411
+
+[INFO|trainer.py:4026] 2025-08-26 17:53:23,546 >>   Batch size = 1
+
+[WARNING|logging.py:328] 2025-08-26 17:53:24,557 >> Starting from v4.46, the `logits` model output will have the same type as the model (except at train time, where it will always be FP32)
+

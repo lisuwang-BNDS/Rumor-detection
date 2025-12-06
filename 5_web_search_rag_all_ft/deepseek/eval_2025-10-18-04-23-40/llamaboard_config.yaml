@@ -1,0 +1,20 @@
+eval.batch_size: 2
+eval.cutoff_len: 8000
+eval.dataset:
+- weibo_covid_RAG
+eval.dataset_dir: LLaMA-Factory/data
+eval.max_new_tokens: 512
+eval.max_samples: '100000'
+eval.output_dir: eval_2025-10-18-04-23-40
+eval.predict: true
+eval.temperature: 0.95
+eval.top_p: 0.7
+top.booster: auto
+top.checkpoint_path:
+- saves/DeepSeek-R1-0528-8B-Distill/lora/train_2025-10-17-15-55-42/checkpoint-300
+top.finetuning_type: lora
+top.model_name: DeepSeek-R1-0528-8B-Distill
+top.quantization_bit: none
+top.quantization_method: bnb
+top.rope_scaling: none
+top.template: deepseekr1

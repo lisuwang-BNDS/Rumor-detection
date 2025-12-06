@@ -93,11 +93,47 @@ This implementation uses:
 - **Negative F1**: 0.5327
 - **F1**: 0.8355
 
-### Phase 5: Fine-Tuning with Web Search RAG (Planned)
+### Phase 5: Fine-Tuning with Web Search RAG (Completed)
 - **File**: `5_web_search_rag_all_ft`
 - **Approach**: Implement fine-tuning approach for multiple models (DeepSeek, GLM, LLaMA3) with web search RAG integration
-- **Status**: Planned for next implementation
-- **Note**: This phase will explore fine-tuning strategies with web search integration for improved rumor detection
+- **Status**: Completed with evaluation metrics below
+- **Note**: This phase explores fine-tuning strategies with web search integration for improved rumor detection
+
+**Evaluation Results:**
+- **Web Search RAG (FT Llama3 + all)**:
+  - Accuracy: 0.8297
+  - Precision: 0.8849
+  - Recall: 0.8447
+  - Negative F1: 0.7712
+  - F1: 0.8643
+
+- **Web Search RAG (DS8b + all)**:
+  - Accuracy: 0.3917
+  - Precision: 0.6250
+  - Recall: 0.1326
+  - Negative F1: 0.5020
+  - F1: 0.2188
+
+- **Web Search RAG (FT DS8b + all)**:
+  - Accuracy: 0.8589
+  - Precision: 0.8732
+  - Recall: 0.9129
+  - Negative F1: 0.7943
+  - F1: 0.8926
+
+- **Web Search RAG (GLM9b + all)**:
+  - Accuracy: 0.3698
+  - Precision: 0.8571
+  - Recall: 0.0227
+  - Negative F1: 0.5299
+  - F1: 0.0443
+
+- **Web Search RAG (FT GLM9b + all)**:
+  - Accuracy: 0.9027
+  - Precision: 0.9029
+  - Recall: 0.9508
+  - Negative F1: 0.8571
+  - F1: 0.9262
 
 
 ## Future Research Directions
@@ -196,6 +232,11 @@ We use standard classification metrics to evaluate our approach:
 | 2_web_search_rag_gov_ds.py | 0.8200 | 0.8065 | 0.9470 | 0.7016 | 0.8711 |
 | 3_web_search_rag_all_glm.py | 0.8418 | 0.8419 | 0.9280 | 0.7566 | 0.8829 |
 | 4_web_search_rag_all_glm45.py | 0.7567 | 0.7384 | 0.9621 | 0.5327 | 0.8355 |
+| Web Search RAG (FT Llama3 + all) | 0.8297 | 0.8849 | 0.8447 | 0.7712 | 0.8643 |
+| Web Search RAG (DS8b + all) | 0.3917 | 0.6250 | 0.1326 | 0.5020 | 0.2188 |
+| Web Search RAG (FT DS8b + all) | 0.8589 | 0.8732 | 0.9129 | 0.7943 | 0.8926 |
+| Web Search RAG (GLM9b + all) | 0.3698 | 0.8571 | 0.0227 | 0.5299 | 0.0443 |
+| Web Search RAG (FT GLM9b + all) | 0.9027 | 0.9029 | 0.9508 | 0.8571 | 0.9262 |
 
 ## License
 

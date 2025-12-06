@@ -1,0 +1,20 @@
+eval.batch_size: 1
+eval.cutoff_len: 8000
+eval.dataset:
+- weibo_covid_RAG
+eval.dataset_dir: /root/LLaMA-Factory/data
+eval.max_new_tokens: 512
+eval.max_samples: '100000'
+eval.output_dir: eval_2025-08-26-17-51-15
+eval.predict: true
+eval.temperature: 0.95
+eval.top_p: 0.7
+top.booster: auto
+top.checkpoint_path:
+- train_2025-08-25-16-03-07
+top.finetuning_type: lora
+top.model_name: Llama-3-8B-Instruct
+top.quantization_bit: '4'
+top.quantization_method: bitsandbytes
+top.rope_scaling: none
+top.template: llama3
