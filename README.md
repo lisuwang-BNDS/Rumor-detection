@@ -2,6 +2,7 @@
 
 ## Updates
 
+* Update 5: Added Path 2 implementation with LLM-based feature engineering (6_feature_engineering_llm/), achieving ensemble F1=0.9009 with full interpretability*
 * Update 4: Added GLM-4.5 implementation (4_web_search_rag_all_glm45.py) with enhanced search strategy, showing improved performance across most metrics*
 * Update 3: Added expanded domain search implementation (3_web_search_rag_all_glm.py) with evaluation results (web_search_rag_predict_glm4_all.json), showing improved performance across all metrics*
 * Update 2: Added DeepSeek model implementation (2_web_search_rag_gov_ds.py) with evaluation results (web_search_rag_predict_deepseek.json), and baseline training data (weibo_source_comments.jsonl)*
@@ -99,6 +100,85 @@ This implementation uses:
 - **Status**: Completed with evaluation metrics below
 - **Note**: This phase explores fine-tuning strategies with web search integration for improved rumor detection
 
+### Phase 6: Path 2 - LLM Feature Engineering (Completed)
+- **File**: `6_feature_engineering_llm/`
+- **Approach**: LLM-based feature extraction with traditional machine learning models
+- **Components**:
+  - `get_features_traindata.py`: Extract 20 features from training data using GLM-4.5
+  - `get_features_testdata.py`: Extract 20 features from test data using GLM-4.5
+  - `data_analysis.py`: Statistical analysis and model evaluation
+  - `prompt.txt`: Comprehensive feature extraction prompt with 20 analysis dimensions
+- **Status**: Completed with ensemble F1=0.9009
+- **Key Features**:
+  - Coercive Language Analysis
+  - Divisive Content Identification
+  - Manipulative Rhetoric Analysis
+  - Absolutist Language Detection
+  - Factual Consistency Verification
+  - Logical Fallacy Identification
+  - Attribution and Source Evaluation
+  - Conspiracy Theory Narrative Detection
+  - Emotional Appeal Analysis
+  - Pseudoscientific Language Identification
+  - Call to Action Assessment
+  - Authority Impersonation Detection
+  - Bot Activity Sign Detection
+  - User Reaction Assessment
+  - Dissemination Modification Tracking
+  - Source Credibility Assessment
+  - Factual Accuracy Verification
+  - Information Completeness Check
+  - External Consistency Analysis
+  - Expert Consensus Alignment
+
+**Statistical Analysis Results:**
+
+![Effect Size (Cohen's d) for Each Feature](6_feature_engineering_llm/Effect%20Size%20(Cohen%20d)%20for%20Each%20Feature.png)
+
+![P-values of Hypothesis Tests for Each Feature](6_feature_engineering_llm/P-values%20of%20Hypothesis%20Tests%20for%20Each%20Feature.png)
+
+**Evaluation Results:**
+- Simple Weighted Evaluation (threshold=0.2):
+  - Accuracy: 0.7737
+  - Precision: 0.7785
+  - Recall: 0.9053
+  - Negative F1: 0.6295
+  - F1: 0.8371
+
+- Logistic Regression (LLM Features):
+  - Accuracy: 0.8200
+  - Precision: 0.8545
+  - Recall: 0.8674
+  - Negative F1: 0.7448
+  - F1: 0.8609
+
+- Decision Tree (LLM Features):
+  - Accuracy: 0.8248
+  - Precision: 0.8721
+  - Recall: 0.8523
+  - Negative F1: 0.7600
+  - F1: 0.8621
+
+- SVM (LLM Features):
+  - Accuracy: 0.8345
+  - Precision: 0.8769
+  - Recall: 0.8636
+  - Negative F1: 0.7718
+  - F1: 0.8702
+
+- **Ensemble Model (Best)**:
+  - Accuracy: 0.8710
+  - Precision: 0.8893
+  - Recall: 0.9129
+  - Negative F1: 0.8153
+  - F1: 0.9009
+
+**Key Findings:**
+- All 20 features demonstrate statistical significance (p < 0.001)
+- 18 features show large effect sizes (>0.8)
+- Most significant feature: Factual Consistency Verification (d = 2.378)
+- The ensemble model maintains strong performance while preserving full interpretability
+
 **Evaluation Results:**
 - **Web Search RAG (FT Llama3 + all)**:
   - Accuracy: 0.8297
@@ -136,16 +216,34 @@ This implementation uses:
   - F1: 0.9262
 
 
+## Dual-Path Framework
+
+Our research implements a dual-path framework that addresses both efficiency and interpretability:
+
+### Path 1: Local Optimization Method
+- Fine-tuning + RAG collaborative approach
+- Model selection: Llama3-8b, DeepSeek-8b, GLM4-9b
+- Target: Local deployment on single 4090/5090 GPU card
+- This path focuses on achieving optimal performance with minimal computational resources
+- Best performance: FT GLM9b + all (F1=0.9262)
+
+### Path 2: Interpretability Method
+- LLM feature extraction + traditional ML
+- Suitable for API environments
+- Ensemble model achieves F1=0.9009
+- This path maintains the interpretability advantages of our original approach
+- 20 comprehensive features extracted using GLM-4.5
+
 ## Future Research Directions
 
-1. **Feature Engineering with LLMs**: Utilize large language models for advanced feature extraction from text content, including:
+1. **Feature Engineering with LLMs** ✅ **Completed in Path 2**: Utilize large language models for advanced feature extraction from text content, including:
    - Semantic embeddings for capturing nuanced meaning
    - Sentiment analysis features with contextual understanding
    - Linguistic complexity metrics
    - Topic modeling with hierarchical approaches
    - Temporal dynamics features for rumor evolution tracking
 
-2. **Statistical Feature Analysis**: Apply rigorous statistical methods to identify most predictive features:
+2. **Statistical Feature Analysis** ✅ **Completed in Path 2**: Apply rigorous statistical methods to identify most predictive features:
    - Feature importance analysis using permutation importance and SHAP values
    - Correlation analysis between features and rumor veracity
    - Principal Component Analysis (PCA) for dimensionality reduction
@@ -228,6 +326,7 @@ We use standard classification metrics to evaluate our approach:
 
 | Implementation | Accuracy | Precision | Recall | Negative F1 | F1 |
 |----------------|----------|-----------|--------|-------------|-----|
+| **Path 1: Fine-Tuned RAG Models** | | | | | |
 | 1_web_search_rag_gov_glm.py | 0.7689 | 0.7553 | 0.9470 | 0.5815 | 0.8403 |
 | 2_web_search_rag_gov_ds.py | 0.8200 | 0.8065 | 0.9470 | 0.7016 | 0.8711 |
 | 3_web_search_rag_all_glm.py | 0.8418 | 0.8419 | 0.9280 | 0.7566 | 0.8829 |
@@ -237,6 +336,12 @@ We use standard classification metrics to evaluate our approach:
 | Web Search RAG (FT DS8b + all) | 0.8589 | 0.8732 | 0.9129 | 0.7943 | 0.8926 |
 | Web Search RAG (GLM9b + all) | 0.3698 | 0.8571 | 0.0227 | 0.5299 | 0.0443 |
 | Web Search RAG (FT GLM9b + all) | 0.9027 | 0.9029 | 0.9508 | 0.8571 | 0.9262 |
+| **Path 2: Feature-Based Models** | | | | | |
+| Simple Weighted Evaluation (threshold=0.2) | 0.7737 | 0.7785 | 0.9053 | 0.6295 | 0.8371 |
+| Logistic Regression (LLM Features) | 0.8200 | 0.8545 | 0.8674 | 0.7448 | 0.8609 |
+| Decision Tree (LLM Features) | 0.8248 | 0.8721 | 0.8523 | 0.7600 | 0.8621 |
+| SVM (LLM Features) | 0.8345 | 0.8769 | 0.8636 | 0.7718 | 0.8702 |
+| **Ensemble Model (Best)** | **0.8710** | **0.8893** | **0.9129** | **0.8153** | **0.9009** |
 
 ## License
 
